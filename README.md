@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi there, I'm Iyed<br><br>I’m a computer science student at Sesame university of Tunis, soon continuing my journey at Esprit.<br><br>Building is what drives me. Over the years, I've worked on many projects and collaborated with different supervisors, each experience shaping the way I think and solve problems.<br><br>Beyond code, I'm very interested in leadership. I like taking charge, organizing ideas, and making projects happen with clear direction.
+# Hi there, I'm Iyed
+I’m a computer science student at Sesame university of Tunis, soon continuing my journey at Esprit.<br><br>Building is what drives me. Over the years, I've worked on many projects and collaborated with different supervisors, each experience shaping the way I think and solve problems.<br><br>Beyond code, I'm very interested in leadership. I like taking charge, organizing ideas, and making projects happen with clear direction.
 
 
 ## 🌐 Socials:
